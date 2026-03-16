@@ -1,0 +1,27 @@
+body{
+    background-color: #FDFBD4;
+}
+.label { 
+    display: inline-block;
+    width: 70px;
+}
+.contact {
+    margin: 0 0;
+}
+table {
+    border-collapse: collapse;
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+th,td {
+    border: 1px solid black;
+    padding: 5px;
+}
+th {
+    background-color: #f2f2f2;
+}
+.foto {
+    max-width: 190px;
+    height: auto;
+}
